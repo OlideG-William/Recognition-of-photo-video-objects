@@ -2,6 +2,7 @@ In order to launch the project, you need to take the following steps:
 
 First install these packages:
 {
+
 	* qt5-applications          5.15.2.2.3
 	* qt5-tools                 5.15.2.1.3
 	* PyQt5                     5.15.9
@@ -12,6 +13,7 @@ First install these packages:
 	* opencv-contrib-python     4.7.0.72
 	* opencv-python             4.7.0.72
 	* numpy                     1.24.2
+ 
 }
 
 Next, you need to install Python itself of the appropriate version:
