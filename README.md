@@ -20,4 +20,4 @@ Next, you need to install Python itself of the appropriate version:
 
 Python 3.11.2
 
-P.S.: Regarding python and version, incompatibility is possible with some packages,  if using a late version of python
+P.S.: Regarding python and version, incompatibility is possible with some packages,  if using a late version of python. Comments in the code are in Ukrainian, over time I will correct them in English
